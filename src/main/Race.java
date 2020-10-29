@@ -1,3 +1,9 @@
+/*  Created by IntelliJ IDEA.
+ *  User: Mahak Agrawal (191500432)
+ *  Date: 29/10/20
+ *  Time: 04:21 PM
+ *  File Name : Race.java
+ * */
 package main;
 
 import thread.rabbit.Rabbit;

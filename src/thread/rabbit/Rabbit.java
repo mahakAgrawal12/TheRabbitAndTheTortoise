@@ -1,3 +1,9 @@
+/*  Created by IntelliJ IDEA.
+ *  User: Mahak Agrawal (191500432)
+ *  Date: 29/10/20
+ *  Time: 04:19 PM
+ *  File Name : Rabbit.java
+ * */
 package thread.rabbit;
 
 import javax.swing.*;
