@@ -31,21 +31,10 @@ public class Tortoise extends Thread {
                     break;
                 case 3:
                     System.out.println("The Tortoise has reached the Big Oak Tree!");
-                    System.out.println("The Tortoise is leading and hence is going to sleep!");
-                    try {
-                        Thread.sleep(9000L);
-                    } catch (InterruptedException e) {
-                        System.err.println("The Tortoise's sleep got interrupted!");
-                    }
                     break;
                 case 4:
                     System.out.println("The Tortoise has reached the finish line!");
                     break;
-            }
-            try {
-                Thread.sleep(3000L);
-            } catch (InterruptedException e) {
-                System.err.println("The Tortoise has lost the path!");
             }
         }
         JOptionPane.showConfirmDialog(
